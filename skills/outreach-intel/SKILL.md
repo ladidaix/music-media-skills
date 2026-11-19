@@ -37,7 +37,7 @@ Outreach fails in two boring ways: drafts that quietly go stale, and contact lis
 
 ## Sending rules
 
-1. Draft pitches only. This skill never sends email on your behalf. The human does the final review and sends.
+1. This skill generates no copy: no pitches, no emails, no follow-ups. It produces intelligence only, the triage and the verified list. The human writes everything, does the final review, and sends.
 2. Report with the bottom line first: money and time-sensitive items go at the top.
 3. The human decides every action. The list is intelligence, not instructions.
 

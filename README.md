@@ -2,11 +2,19 @@
 
 Media professionals have a gift with words, whether written or spoken. But we live in a fast-paced society, and a lot of deliverables have to be turned around in a very short amount of time. How does one person have the time to write and transcribe and edit and clip? We don’t. So we focus on the integrity of the research and the writing, and we use the tools available to us to help with the rest.
 
-Three production-tested Claude skills for music media professionals, creators, podcasters, and indie artist teams: a social carousel builder, an interview production pipeline, and an outreach intelligence workflow. Every skill in this pack works the media operation around the content: production, packaging, formatting and assembly, social production, discoverability, and outreach.
+Three production-tested Claude skills for music media professionals, creators, podcasters, and indie artist teams: a social carousel builder, an interview production pipeline, and an outreach intelligence workflow. Every skill in this pack works the media operation around the content: production, packaging, formatting and assembly, social production, discoverability (SEO and GEO), conversion across formats, and outreach.
 
 These are not prompts. Each skill is a complete working method, with the format rules, the quality checks, and the failure modes already baked in, extracted from a real weekly music media operation and rewritten so any music media professional, creator, podcaster, host, or indie artist team can run them.
 
-Built for multi-hyphenates covering multiple surfaces and formats, where the way a piece works in one place cannot be the same everywhere else. The point is avoiding burnout while maximizing efficiency across surfaces, without giving up quality or originality.
+Built for multi-hyphenates in music media: the writer, host, producer, and social lead all in one person, and the small teams built around people like that. When one person covers every surface, the way a piece works in one place cannot be the same everywhere else. The point is avoiding burnout while maximizing efficiency across surfaces, without giving up quality or originality.
+
+One piece of substance, created once by the human, has to work in many places. These skills handle everything after the creation: the conversion, the selection, and the per-platform optimization, so the human's time stays on the writing and the hosting.
+
+## The line these skills keep
+
+The writing is the human's. Every piece of substance this pack touches, every article, caption, take, and pitch, is written by a person. These skills work everything around the writing: production, packaging, formatting and assembly, discoverability (SEO and GEO), and the conversion of human-made work across formats. They may flag grammar and mechanical issues in human-written copy and offer stronger-writing suggestions for the writer to take or leave. They never draft, rewrite, shorten, or paraphrase body copy, and they never insert their own prose into a piece.
+
+Created once, converted many times. The substance is created once, by the human. Everything after that, turning a written piece into slides, cutting a long interview down to the moments that travel, optimizing each version for its platform, is conversion, and conversion is what these skills are for.
 
 ## Who this is for
 
@@ -49,7 +57,7 @@ Copy the contents of any `SKILL.md` into your project's instructions or custom s
 
 Ask: "Turn this album review into a five-slide Instagram carousel."
 
-You get a cover with a face-safe crop and a serif italic accent word in the headline, interior slides on one margin grid with type aligned by measured ink, a footer handle placed to clear the platform's action buttons, lossless images, and a self-audit that fails the build if a baseline jumps or a bottom margin drifts.
+You get a cover with a face-safe crop and a serif italic accent word in the headline, interior slides on one margin grid with type aligned by measured ink, your review copy set word for word (any text that does not fit is flagged back to you, never trimmed), a footer handle placed to clear the platform's action buttons, lossless images, a self-audit that fails the build if a baseline jumps or a bottom margin drifts, and a caption checklist instead of a drafted caption.
 
 ### Interview Production
 
@@ -61,19 +69,19 @@ You get transcripts in docx and markdown, SRT captions cut at sentence boundarie
 
 Ask: "Triage my drafts and build me a sponsor list for next month's push."
 
-You get every draft sorted into still live, dead, needs nudge, needs review, or keep as note (private notes are flagged, never read aloud), plus one ranked contact list where every name, title, and email was verified against a real thread or sheet, warm relationships first, stale entries flagged instead of silently included. Drafts only. Nothing is ever sent for you.
+You get every draft sorted into still live, dead, needs nudge, needs review, or keep as note (private notes are flagged, never read aloud), plus one ranked contact list where every name, title, and email was verified against a real thread or sheet, warm relationships first, stale entries flagged instead of silently included. Intelligence only: no pitch is drafted, and nothing is ever sent for you.
 
 ## The principles baked into all three
 
 1. Never invent quotes, facts, contacts, or relationships. If it cannot be verified against a source, it does not ship.
 2. Match the established format before innovating. Consistency is the brand.
 3. Check the actual rendered result, at full size, before calling anything done.
-4. Draft, do not send. The human reviews, decides, and hits send.
+4. The human writes, reviews, decides, and hits send.
 5. Private material stays private. Notes, credentials, and off-the-record moments are flagged and protected, never surfaced.
 
 ## Security
 
-This pack was scanned before publishing with [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) v2.12.0, static analysis only (`--no-llm`). Results: score 14 (LOW), recommendation SAFE, 100 percent coverage, with zero CRITICAL and zero HIGH findings. The only findings were three MEDIUM "Skill Enumeration" flags on this README's own table-of-contents links to the skill files in this repository, each one read and confirmed as a false positive. Full details are in [SECURITY.md](SECURITY.md). The skills are markdown only. There is no executable code in this repository.
+This pack was scanned before publishing with [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) v2.12.0, static analysis only (`--no-llm`). Results: score 17 (LOW), recommendation SAFE, 100 percent coverage, with zero CRITICAL and zero HIGH findings. The only findings were three MEDIUM "Skill Enumeration" flags on this README's own table-of-contents links to the skill files in this repository, and one LOW "Scope Creep" flag on a sentence that limits the skills' scope to the work after creation, each one read and confirmed as a false positive. Full details are in [SECURITY.md](SECURITY.md). The skills are markdown only. There is no executable code in this repository.
 
 ## Contributing
 

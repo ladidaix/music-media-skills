@@ -8,22 +8,23 @@ This pack was scanned before publishing, and the results are published here so a
 | --- | --- |
 | Tool | NVIDIA SkillSpector, v2.12.0 |
 | Mode | Static analysis only (`--no-llm`). No API key, no cost |
-| Date | November 19, 2026 (rescanned the same day after the pack was cut from four skills to three; the results below describe the current tree) |
+| Date | November 19, 2026 (rescanned the same day after the pack was cut from four skills to three, and again after the approved reframe package was applied; the results below describe the current tree) |
 | Target | This repository, all three skills plus the README and license |
 | Coverage | 100 percent (scan complete, all files fully inspected) |
-| Score | 14, severity LOW |
+| Score | 17, severity LOW |
 | Recommendation | SAFE |
 | Critical findings | 0 |
 | High findings | 0 |
 
 ## Findings triage
 
-The scan returned three findings, all MEDIUM, all the same pattern, and all read by hand before this file was written:
+The scan returned four findings, all read by hand before this file was written:
 
-1. Pattern: AS3, "Skill Enumeration," in the Agent Snooping category.
+1. Three MEDIUM findings, one pattern: AS3, "Skill Enumeration," in the Agent Snooping category.
 2. Location: the table-of-contents table in the README, one flag per skill.
 3. What the flagged text actually is: ordinary markdown links from the README to the three skill files inside this same repository. A table of contents linking to the contents is the intended behavior of the page, not one skill reading another skill's private instructions.
 4. Verdict: false positive, the same family documented in large public skill collections, where index files and wrappers are flagged for referencing the files they index.
+5. One LOW finding: EA3, "Scope Creep," flagging the phrase "handle everything" in the README sentence "These skills handle everything after the creation: the conversion, the selection, and the per-platform optimization." Read in context, the sentence limits scope rather than expanding it: the skills take on only the work after the human creates the substance, and the sentence names exactly what that work is. Verdict: false positive.
 
 ## Scope notes
 

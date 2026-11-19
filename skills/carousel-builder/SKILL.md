@@ -1,21 +1,21 @@
 ---
 name: carousel-builder
-description: Build social media carousels for Instagram, LinkedIn, and TikTok with face-safe crops, a consistent identity system, platform-safe footers, and a rigorous high-resolution quality check. Use when creating a multi-slide social post, a slide deck for social, or a quote or tips carousel.
+description: A design and production system for social media carousels on Instagram, LinkedIn, and TikTok: face-safe crops, a consistent identity system, platform-safe footers, the writer's supplied copy set verbatim, and a rigorous high-resolution quality check. Use when creating a multi-slide social post, a slide deck for social, or a quote or tips carousel.
 ---
 
 # Carousel Builder
 
 ## Purpose
 
-Produce social carousels that look like they came from one editorial desk: a consistent visual system, copy in a clear voice, and a quality check thorough enough that defects get caught before the audience sees them.
+Produce social carousels that look like they came from one editorial desk: a consistent visual system, the writer's own copy set exactly as supplied, and a quality check thorough enough that defects get caught before the audience sees them. This skill designs and produces. It does not write the words.
 
 ## Workflow
 
-1. Get the brief: platform, slide count, copy or outline, and the photos and assets.
-2. Write the copy first. Scene first, contractions, the Oxford comma, and no em dashes. Never invent quotes, facts, or biographical details. Every claim must be verifiable against source material.
+1. Get the brief: platform, slide count, the writer's finished copy, and the photos and assets. If the copy is not finished, say so and wait for it; an outline is not slide text.
+2. Set the writer's copy exactly as supplied, word for word. Never shorten, paraphrase, or rewrite slide text, and never write slide text yourself. If supplied text does not fit its slide, flag the overflow for the writer and let them decide; never trim it yourself. You may flag grammar and mechanical issues in the supplied copy and offer optional stronger-writing suggestions for the writer to take or leave; suggestions are offered, never applied on your own. Never invent quotes, facts, or biographical details. Every claim must be verifiable against source material.
 3. Build at high resolution, in the visual system below.
 4. Run the full quality check before delivery. Look at the slides yourself, zoomed in, the way a reader will.
-5. Deliver individual slide files, never a zip. Include a caption draft that matches the slides and ends on the call to action, if there is one.
+5. Deliver individual slide files, never a zip. Include a caption checklist: the points the writer's caption needs to cover, drawn only from copy the writer supplied (the hook, what the slides deliver, the call to action if there is one, the handle and tags). The writer writes the caption.
 
 ## Visual system
 
@@ -49,17 +49,18 @@ An editorial base with a beauty-magazine gloss works well for music and culture 
 
 ## Quality check
 
-1. Render the tightest slides, especially bottom strips and dense text pages, at 70 dpi or higher and zoom in before delivery.
-2. Check faces, crops, contrast, and text legibility on a phone-sized view, not only on a desktop.
-3. For PDF carousels (LinkedIn), embed the original images losslessly. Never let an encoder recompress them.
-4. If a PDF previews sharp but posts fuzzy, check the PDF's page dimensions before re-rendering. Small page dimensions lose pixels at any DPI. Re-export at a larger page size instead of only raising the render resolution.
+1. Verify the slide text matches the supplied copy word for word. Any overflow is flagged to the writer, never silently trimmed, shortened, or rewritten.
+2. Render the tightest slides, especially bottom strips and dense text pages, at 70 dpi or higher and zoom in before delivery.
+3. Check faces, crops, contrast, and text legibility on a phone-sized view, not only on a desktop.
+4. For PDF carousels (LinkedIn), embed the original images losslessly. Never let an encoder recompress them.
+5. If a PDF previews sharp but posts fuzzy, check the PDF's page dimensions before re-rendering. Small page dimensions lose pixels at any DPI. Re-export at a larger page size instead of only raising the render resolution.
 
 ## Output contract
 
 Deliver:
 
 1. The final slide images (or the PDF), high resolution and quality checked.
-2. A caption draft consistent with the slides.
+2. A caption checklist for the writer: what the caption needs to cover, drawn only from the supplied copy. No caption is drafted.
 3. A short done and waiting-on note: what is ready to post, and what still needs approval.
 
 ## Example
@@ -67,7 +68,7 @@ Deliver:
 A five-slide album review carousel:
 
 1. Cover: artist photo with a face-safe crop, ink masthead panel, headline with one serif italic accent word, series kicker, sparkle badge.
-2. The context: two or three sentences on where this album sits in the artist's career, one highlighted phrase.
-3. The standout track: a pull quote from the lyrics you can verify, the track's story, and a dotted divider.
-4. The verdict: who this album is for, in one honest paragraph.
+2. The context: the writer's own two or three sentences on where this album sits in the artist's career, set in full, one highlighted phrase.
+3. The standout track: a pull quote from the lyrics you can verify, the writer's supplied text on the track, and a dotted divider.
+4. The verdict: the writer's own verdict paragraph, set in full, never summarized or rewritten.
 5. Closer: your handle footer, the identity badge photo, and a question that invites comments.

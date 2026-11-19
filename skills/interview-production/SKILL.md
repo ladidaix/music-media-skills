@@ -1,6 +1,6 @@
 ---
 name: interview-production
-description: Turn a recorded interview into an edit-ready production package: full transcripts in docx and markdown, timestamped SRT captions, a cold-open order, and social clip selects with timestamps and search-friendly titles. Use after taping an interview, podcast episode, or press conversation.
+description: Turn a recorded interview into an editor-ready production package: full transcripts in docx and markdown, timestamped SRT captions, a cold-open order, and social clip selects with timestamps and search-friendly titles. Use after taping an interview, podcast episode, or press conversation.
 ---
 
 # Interview Production
@@ -43,7 +43,7 @@ Organize everything in one folder named `<Guest> Interview`, or `<Guest> Intervi
 ## Operating rules
 
 1. Selects and files only. This skill does not render video clips. The video editor does the edit. Your job is to make their edit fast and obvious.
-2. Apply clean editorial voice rules to any written copy: contractions, the Oxford comma, and no em dashes.
+2. Apply clean house style to production notes and clip titles. If the package includes the writer's own written copy, flag grammar and mechanical issues and offer take-or-leave stronger-writing suggestions; the writer decides, and their text is never rewritten. Transcripts stay faithful to what was actually said.
 3. Never invent quotes, facts, or biographical details. A clip title may be punchy, but it may not promise something the guest did not say.
 4. Every package ships accessible: full transcripts, captions, and alt text for any thumbnail or cover image.
 5. If the social cuts are headed for a quote carousel, hand the selects to a carousel workflow instead of formatting slides inside this one.
