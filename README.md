@@ -1,6 +1,6 @@
 # Music Media Skills for Claude
 
-Media professionals have a gift with words, whether written or spoken. But we live in a fast-paced society, and a lot of things have to be turned around in a very short amount of time. How does one person have the time to write and transcribe and edit and clip? We don’t. So we focus on the integrity of the research and the writing, and we use the tools available to us to help with the rest.
+Media professionals have a gift with words, whether written or spoken. But we live in a fast-paced society, and a lot of deliverables have to be turned around in a very short amount of time. How does one person have the time to write and transcribe and edit and clip? We don’t. So we focus on the integrity of the research and the writing, and we use the tools available to us to help with the rest.
 
 Three production-tested Claude skills for music media professionals, creators, podcasters, and indie artist teams: a social carousel builder, an interview production pipeline, and an outreach intelligence workflow. Every skill in this pack works the media operation around the content: production, packaging, formatting and assembly, social production, discoverability, and outreach.
 
