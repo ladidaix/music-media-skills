@@ -1,10 +1,12 @@
 # Music Media Skills for Claude
 
+Media professionals have a gift with words, whether written or spoken. But we live in a fast-paced society, and a lot of things have to be turned around in a very short amount of time. How does one person have the time to write and transcribe and edit and clip? We don’t. So we focus on the integrity of the research and the writing, and we use the tools available to us to help with the rest.
+
 Three production-tested Claude skills for music media professionals, creators, podcasters, and indie artist teams: a social carousel builder, an interview production pipeline, and an outreach intelligence workflow. Every skill in this pack works the media operation around the content: production, packaging, formatting and assembly, social production, discoverability, and outreach.
 
 These are not prompts. Each skill is a complete working method, with the format rules, the quality checks, and the failure modes already baked in, extracted from a real weekly music media operation and rewritten so any music media professional, creator, podcaster, host, or indie artist team can run them.
 
-Built for multi-hyphenates: people covering multiple surfaces and formats, who cannot do one thing the same way everywhere. The point is avoiding burnout while maximizing efficiency across surfaces, without giving up quality or originality.
+Built for multi-hyphenates covering multiple surfaces and formats, where the way a piece works in one place cannot be the same everywhere else. The point is avoiding burnout while maximizing efficiency across surfaces, without giving up quality or originality.
 
 ## Who this is for
 
