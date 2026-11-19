@@ -1,12 +1,14 @@
-# Music Journalism Skills for Claude
+# Music Media Skills for Claude
 
-Four production-tested Claude skills for music journalists and indie artist teams: a weekly New Music Friday column, a social carousel builder, an interview production pipeline, and an outreach intelligence workflow.
+Four production-tested Claude skills for music media professionals, creators, podcasters, and indie artist teams: a weekly New Music Friday column production system, a social carousel builder, an interview production pipeline, and an outreach intelligence workflow. Every skill in this pack works the media operation around the content: production, packaging, formatting and assembly, social production, discoverability, and outreach.
 
-These are not prompts. Each skill is a complete working method, with the format rules, the quality checks, and the failure modes already baked in, extracted from a real weekly publishing operation and rewritten so any music journalist, editor, podcaster, or indie artist team can run them.
+These are not prompts. Each skill is a complete working method, with the format rules, the quality checks, and the failure modes already baked in, extracted from a real weekly music media operation and rewritten so any music media professional, creator, podcaster, host, or indie artist team can run them.
+
+Built for multi-hyphenates: people covering multiple surfaces and formats, who cannot do one thing the same way everywhere. The point is avoiding burnout while maximizing efficiency across surfaces, without giving up quality or originality.
 
 ## Who this is for
 
-1. Music journalists and editors running a weekly releases column.
+1. Music media professionals running a weekly releases column, who want the production around it handled.
 2. Podcasters and video hosts who tape interviews and need an editor-ready package fast.
 3. Indie artists and small teams doing their own social content and sponsor outreach.
 4. Anyone using Claude who would rather hand it a proven workflow than a blank prompt.
@@ -25,15 +27,15 @@ These are not prompts. Each skill is a complete working method, with the format 
 ### All four skills (Claude Code)
 
 ```bash
-git clone https://github.com/ladidaix/music-journalism-skills.git
-cp -R music-journalism-skills/skills/* ~/.claude/skills/
+git clone https://github.com/ladidaix/music-media-skills.git
+cp -R music-media-skills/skills/* ~/.claude/skills/
 ```
 
 ### One skill only
 
 ```bash
-git clone https://github.com/ladidaix/music-journalism-skills.git
-cp -R music-journalism-skills/skills/carousel-builder ~/.claude/skills/
+git clone https://github.com/ladidaix/music-media-skills.git
+cp -R music-media-skills/skills/carousel-builder ~/.claude/skills/
 ```
 
 ### Other Claude surfaces

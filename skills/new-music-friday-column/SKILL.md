@@ -1,6 +1,6 @@
 ---
 name: new-music-friday-column
-description: Build a weekly New Music Friday column in a consistent editorial format, with a genre-balanced title, publication-ready hyperlinks, and a scrapbook-style cover. Use when drafting, assembling, or updating a weekly new-releases column for a publication, newsletter, or music site.
+description: Build a weekly New Music Friday column in a consistent house format, with a genre-balanced title, publication-ready hyperlinks, and a scrapbook-style cover. Use when drafting, assembling, or updating a weekly new-releases column for a publication, newsletter, or music site.
 ---
 
 # New Music Friday Column
