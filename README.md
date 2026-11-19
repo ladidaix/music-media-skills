@@ -2,7 +2,7 @@
 
 Media professionals have a gift with words, whether written or spoken. But we live in a fast-paced society, and a lot of deliverables have to be turned around in a very short amount of time. How does one person have the time to write and transcribe and edit and clip? We don’t. So we focus on the integrity of the research and the writing, and we use the tools available to us to help with the rest.
 
-Three production-tested Claude skills for music media professionals, creators, podcasters, and indie artist teams: a social carousel builder, an interview production pipeline, and an outreach intelligence workflow. Every skill in this pack works the media operation around the content: production, packaging, formatting and assembly, social production, discoverability (SEO and GEO), conversion across formats, and outreach.
+Four production-tested Claude skills for music media professionals, creators, podcasters, and indie artist teams: a social carousel builder, an interview production pipeline, a content conversion workflow, and an outreach intelligence workflow. Every skill in this pack works the media operation around the content: production, packaging, formatting and assembly, social production, discoverability (SEO and GEO), conversion across formats, and outreach.
 
 These are not prompts. Each skill is a complete working method, with the format rules, the quality checks, and the failure modes already baked in, extracted from a real weekly music media operation and rewritten so any music media professional, creator, podcaster, host, or indie artist team can run them.
 
@@ -29,11 +29,12 @@ Created once, converted many times. The substance is created once, by the human.
 | --- | --- | --- |
 | [Carousel Builder](skills/carousel-builder/SKILL.md) | Builds Instagram, LinkedIn, and TikTok carousels with face-safe crops, an identity badge system, platform-safe footers, a glossy editorial template, and an A+ layout audit (one margin grid, measured-ink alignment, shared baselines) | You need a multi-slide post that looks designed, not generated |
 | [Interview Production](skills/interview-production/SKILL.md) | Turns a recording into docx and markdown transcripts, sentence-boundary SRT captions, a stitched 15-second cold open, and social clip selects with timestamps, searchable titles, and tags | You just taped an interview and your editor needs a package, not a raw file |
+| [Content Conversion](skills/content-conversion/SKILL.md) | Turns a finished written piece into a video package built only from the piece's own words (verbatim line selection, shot and asset list, captions, per-platform cuts), and cuts long-form non-interview video such as talks and panels into captioned social clips | A piece is published and needs its video life, or a talk recording needs clips |
 | [Outreach Intel](skills/outreach-intel/SKILL.md) | Triages an email draft pileup into still live, dead, needs nudge, and needs review buckets, then mines past threads and sheets into a ranked, verified, warm-first contact list for sponsors and partners | You are starting a sponsorship or partnership push and refuse to pitch from guesses |
 
 ## Install
 
-### All three skills (Claude Code)
+### All four skills (Claude Code)
 
 ```bash
 git clone https://github.com/ladidaix/music-media-skills.git
@@ -65,13 +66,19 @@ Ask: "Produce the package for the interview I taped yesterday."
 
 You get transcripts in docx and markdown, SRT captions cut at sentence boundaries, a 15-second cold open stitched from three timestamped moments, three social clips with searchable titles and tags, and a note that says exactly what is ready for your editor and what is waiting on you. No rendered clips. Selects only, so the editor stays the editor.
 
+### Content Conversion
+
+Ask: "Turn this essay into a video package for TikTok and YouTube."
+
+You get a selection list of the essay's own lines, quoted exactly and tagged by paragraph for your approval, a running order that is the script because the piece is the script, a shot and asset list using only material you have the rights to, captions built from the same words, a cover that uses the piece's own headline, and per-platform cuts where only the format and length change, never the wording. Anything missing, an asset, a bridge line, is flagged for you, never invented.
+
 ### Outreach Intel
 
 Ask: "Triage my drafts and build me a sponsor list for next month's push."
 
 You get every draft sorted into still live, dead, needs nudge, needs review, or keep as note (private notes are flagged, never read aloud), plus one ranked contact list where every name, title, and email was verified against a real thread or sheet, warm relationships first, stale entries flagged instead of silently included. Intelligence only: no pitch is drafted, and nothing is ever sent for you.
 
-## The principles baked into all three
+## The principles baked into all four
 
 1. Never invent quotes, facts, contacts, or relationships. If it cannot be verified against a source, it does not ship.
 2. Match the established format before innovating. Consistency is the brand.
@@ -81,7 +88,7 @@ You get every draft sorted into still live, dead, needs nudge, needs review, or 
 
 ## Security
 
-This pack was scanned before publishing with [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) v2.12.0, static analysis only (`--no-llm`). Results: score 17 (LOW), recommendation SAFE, 100 percent coverage, with zero CRITICAL and zero HIGH findings. The only findings were three MEDIUM "Skill Enumeration" flags on this README's own table-of-contents links to the skill files in this repository, and one LOW "Scope Creep" flag on a sentence that limits the skills' scope to the work after creation, each one read and confirmed as a false positive. Full details are in [SECURITY.md](SECURITY.md). The skills are markdown only. There is no executable code in this repository.
+This pack was scanned before publishing with [NVIDIA SkillSpector](https://github.com/NVIDIA/SkillSpector) v2.12.0, static analysis only (`--no-llm`). Results: score 20 (LOW), recommendation SAFE, 100 percent coverage, with zero CRITICAL and zero HIGH findings. The only findings were four MEDIUM "Skill Enumeration" flags on this README's own table-of-contents links to the skill files in this repository, and three LOW "Scope Creep" flags on one phrase in a sentence that limits the skills' scope to the work after creation, each one read and confirmed as a false positive. Full details are in [SECURITY.md](SECURITY.md). The skills are markdown only. There is no executable code in this repository.
 
 ## Contributing
 
