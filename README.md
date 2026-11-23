@@ -27,8 +27,8 @@ Created once, converted many times. The substance is created once, by the human.
 
 | Skill | What it does | Reach for it when |
 | --- | --- | --- |
-| [Carousel Builder](skills/carousel-builder/SKILL.md) | Builds Instagram, LinkedIn, and TikTok carousels with face-safe crops, an identity badge system, platform-safe footers, a glossy editorial template, and an A+ layout audit (one margin grid, measured-ink alignment, shared baselines) | You need a multi-slide post that looks designed, not generated |
-| [Interview Production](skills/interview-production/SKILL.md) | Turns a recording into docx and markdown transcripts, sentence-boundary SRT captions, a stitched 15-second cold open, and social clip selects with timestamps, searchable titles, and tags | You just taped an interview and your editor needs a package, not a raw file |
+| [Carousel Builder](skills/carousel-builder/SKILL.md) | Builds Instagram, LinkedIn, and TikTok carousels with face-safe crops, an identity badge system, platform-safe footers, a glossy editorial template, and an A+ layout audit (one margin grid, measured-ink alignment, shared baselines) | You need a multi-slide post with a polished, designed look |
+| [Interview Production](skills/interview-production/SKILL.md) | Turns a recording into docx and markdown transcripts, sentence-boundary SRT captions, a stitched 15-second cold open, and social clip selects with timestamps, searchable titles, and tags | You just taped an interview and your editor needs a finished package |
 | [Content Conversion](skills/content-conversion/SKILL.md) | Turns a finished written piece into a video package built only from the piece's own words (verbatim line selection, shot and asset list, captions, per-platform cuts), and cuts long-form non-interview video such as talks and panels into captioned social clips | A piece is published and needs its video life, or a talk recording needs clips |
 | [Outreach Intel](skills/outreach-intel/SKILL.md) | Triages an email draft pileup into still live, dead, needs nudge, and needs review buckets, then mines past threads and sheets into a ranked, verified, warm-first contact list for sponsors and partners | You are starting a sponsorship or partnership push and refuse to pitch from guesses |
 
@@ -60,15 +60,19 @@ Copy the contents of any `SKILL.md` into your project's instructions or custom s
 
 Ask: "Turn this album review into a five-slide Instagram carousel."
 
-You get a cover with a face-safe crop and a serif italic accent word in the headline, interior slides on one margin grid with type aligned by measured ink, your review copy set word for word (any text that does not fit is flagged back to you, never trimmed), a footer handle placed to clear the platform's action buttons, lossless images, a self-audit that fails the build if a baseline jumps or a bottom margin drifts, and a caption checklist instead of a drafted caption.
+You get a cover with a face-safe crop and, for example, a serif italic accent word in the headline, interior slides on one margin grid with type aligned by measured ink, your review copy set word for word (any text that does not fit is flagged back to you, never trimmed), a footer handle placed to clear the platform's action buttons, lossless images, a self-audit that fails the build if a baseline jumps or a bottom margin drifts, and a caption checklist instead of a drafted caption.
 
 Sample output: [examples/carousel-builder-sample.md](examples/carousel-builder-sample.md)
 
 Built with this skill: the cover and an interior slide from the ten-slide carousel for "The Intimacy Economy," a Music Business Worldwide piece on Charli xcx and music's biggest stars going small on purpose.
 
+The pictured carousel is the founder's own published piece, built in her own go-to template; the sample output describes the skill's general output, not this cover pixel for pixel.
+
 ![Carousel cover built with the Carousel Builder skill](examples/images/carousel-charli-cover.jpg)
 
 ![Interior carousel slide built with the Carousel Builder skill](examples/images/carousel-charli-slide.jpg)
+
+Images in examples/images are not covered by the MIT license. Photos belong to their respective owners.
 
 ### Interview Production
 
