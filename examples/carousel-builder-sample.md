@@ -1,14 +1,14 @@
 # Sample output: Carousel Builder
 
-Input: "Turn this album review into a five-slide Instagram carousel."
+Input: “Turn this album review into a five-slide Instagram carousel.”
 
 ## Build plan
 
 1. Slide 1, cover: headline set in two lines, for example with one serif italic accent word; artist photo cropped face-safe (face sits in the upper third, clear of the headline block); identity badge, for example bottom left.
-2. Slide 2: the review's opening argument, word for word, one margin grid, 64px safe frame on all sides.
-3. Slide 3: the track-by-track passage, word for word; flagged back to the author because it runs 12 words over the slide's capacity, with the two candidate cut points marked. Nothing trimmed silently.
+2. Slide 2: the review’s opening argument, word for word, one margin grid, 64px safe frame on all sides.
+3. Slide 3: the track-by-track passage, word for word; flagged back to the author because it runs 12 words over the slide’s capacity, with the two candidate cut points marked. Nothing trimmed silently.
 4. Slide 4: the verdict paragraph, word for word, pull line set larger.
-5. Slide 5, closer: rating line, footer handle placed to clear the platform's action buttons, follow prompt.
+5. Slide 5, closer: rating line, footer handle placed to clear the platform’s action buttons, follow prompt.
 
 ## Self-audit (runs before delivery)
 

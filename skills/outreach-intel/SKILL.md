@@ -24,7 +24,7 @@ Outreach fails in two boring ways: drafts that quietly go stale, and contact lis
 ## Part 2: Mine verified contacts
 
 1. Search your email for threads with brands, agencies, PR firms, and past sponsors across your beats, for example music, culture, tech, lifestyle, and beauty. Extract the name, title, company, email, and the nature of the history.
-2. Search your shared drive for outreach sheets, decks, and contact lists. Note each sheet's date. Titles and roles go stale, so re-verify old entries before using them.
+2. Search your shared drive for outreach sheets, decks, and contact lists. Note each sheet’s date. Titles and roles go stale, so re-verify old entries before using them.
 3. Rank warm first. A real reply thread from last year beats a famous name with no history, every time.
 4. Deliver one ranked list with these columns: name, title, company, email or profile link, warmth, source, and notes.
 

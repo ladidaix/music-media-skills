@@ -1,15 +1,15 @@
 # Sample output: Content Conversion
 
-Input: "Turn this essay into a video package for TikTok and YouTube."
+Input: “Turn this essay into a video package for TikTok and YouTube.”
 
-## Line selection (the essay's own words only, tagged by paragraph)
+## Line selection (the essay’s own words only, tagged by paragraph)
 
-1. P1: "Every record I loved first found me in somebody else's car." (opener)
-2. P3: "We didn't have less music. We had fewer doors into it, and every door had a person standing in it." (thesis)
-3. P5: "The algorithm is a hallway with no one in it." (turn)
-4. P8: "I am not nostalgic for scarcity. I am nostalgic for witnesses." (closer)
+1. P1: “Every record I loved first found me in somebody else’s car.” (opener)
+2. P3: “We didn’t have less music. We had fewer doors into it, and every door had a person standing in it.” (thesis)
+3. P5: “The algorithm is a hallway with no one in it.” (turn)
+4. P8: “I am not nostalgic for scarcity. I am nostalgic for witnesses.” (closer)
 
-Selection is presented for the author's approval before anything is built. Lines are quoted exactly; nothing is paraphrased into the author's mouth.
+Selection is presented for the author’s approval before anything is built. Lines are quoted exactly; nothing is paraphrased into the author’s mouth.
 
 ## Running order
 
@@ -17,9 +17,9 @@ The script is the selection, in essay order: opener, thesis, turn, closer. Estim
 
 ## Shot and asset list
 
-1. Opener: author's own photo of a car interior at night (from the author's library; rights confirmed).
-2. Thesis: screen recording of the essay's published page, scroll at reading pace.
-3. Turn: B-roll of a streaming app's autoplay queue (screen capture, no third-party artwork shown).
+1. Opener: author’s own photo of a car interior at night (from the author’s library; rights confirmed).
+2. Thesis: screen recording of the essay’s published page, scroll at reading pace.
+3. Turn: B-roll of a streaming app’s autoplay queue (screen capture, no third-party artwork shown).
 4. Closer: author to camera, one take, captions from the same words.
 
 ## Per-platform cuts

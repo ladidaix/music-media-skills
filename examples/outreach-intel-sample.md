@@ -1,6 +1,6 @@
 # Sample output: Outreach Intel
 
-Input: "Triage my drafts and build me a sponsor list for next month's push."
+Input: “Triage my drafts and build me a sponsor list for next month’s push.”
 
 ## Draft triage (38 drafts)
 
@@ -13,7 +13,7 @@ Input: "Triage my drafts and build me a sponsor list for next month's push."
 ## Ranked contact list (excerpt, sample data)
 
 1. A. Rivera, partnerships lead, streaming-adjacent brand. Warm: two past collaborations, last thread 3 weeks ago. Contact verified against the thread signature. Fit: title sponsor tier.
-2. J. Okafor, culture marketing manager, beverage brand. Warm: met at a conference, intro'd a colleague last spring. Contact verified against a past sheet. Fit: presenting partner tier.
-3. M. Chen, founder, ticketing startup. Cold but verified: email confirmed on the company's own site, no past thread. Fit: community partner tier.
+2. J. Okafor, culture marketing manager, beverage brand. Warm: met at a conference, intro’d a colleague last spring. Contact verified against a past sheet. Fit: presenting partner tier.
+3. M. Chen, founder, ticketing startup. Cold but verified: email confirmed on the company’s own site, no past thread. Fit: community partner tier.
 
-Every name, title, and email on the full list was verified against a real thread, sheet, or the company's own page. Stale entries are flagged, not silently included. Intelligence only: no pitch is drafted, and nothing is ever sent for you.
+Every name, title, and email on the full list was verified against a real thread, sheet, or the company’s own page. Stale entries are flagged, not silently included. Intelligence only: no pitch is drafted, and nothing is ever sent for you.

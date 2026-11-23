@@ -43,7 +43,7 @@ Organize everything in one folder named `<Guest> Interview`, or `<Guest> Intervi
 ## Operating rules
 
 1. Selects and files only. This skill does not render video clips. The video editor does the edit. Your job is to make their edit fast and obvious.
-2. Apply clean house style to production notes and clip titles. If the package includes the writer's own written copy, flag grammar and mechanical issues and offer take-or-leave stronger-writing suggestions; the writer decides, and their text is never rewritten. Transcripts stay faithful to what was actually said.
+2. Apply clean house style to production notes and clip titles. If the package includes the writer’s own written copy, flag grammar and mechanical issues and offer take-or-leave stronger-writing suggestions; the writer decides, and their text is never rewritten. Transcripts stay faithful to what was actually said.
 3. Never invent quotes, facts, or biographical details. A clip title may be punchy, but it may not promise something the guest did not say.
 4. Every package ships accessible: full transcripts, captions, and alt text for any thumbnail or cover image.
 5. If the social cuts are headed for a quote carousel, hand the selects to a carousel workflow instead of formatting slides inside this one.
@@ -55,5 +55,5 @@ A 42-minute interview with an indie artist produces:
 1. `Artist Interview.docx` and `Artist Interview.md`, with the clip notes on page one.
 2. `Artist Interview.srt`, cues at sentence boundaries, about 5 seconds each.
 3. A cold open: 0:41 to 0:47 (the one-line origin story), 18:02 to 18:06 (the laugh), 31:15 to 31:20 (the thesis of the new album).
-4. Three social clips, each with a timestamp range, a searchable title such as "How [Artist] Wrote the Album in a Garage Studio," and tags.
-5. A done and waiting-on note: transcripts and captions ready for the editor, cold-open order waiting on the host's final pick between two stitches.
+4. Three social clips, each with a timestamp range, a searchable title such as “How [Artist] Wrote the Album in a Garage Studio,” and tags.
+5. A done and waiting-on note: transcripts and captions ready for the editor, cold-open order waiting on the host’s final pick between two stitches.
