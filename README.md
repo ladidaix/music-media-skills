@@ -64,11 +64,11 @@ You get a cover with a face-safe crop and a serif italic accent word in the head
 
 Sample output: [examples/carousel-builder-sample.md](examples/carousel-builder-sample.md)
 
-Built with this skill, the glossy editorial template (cover and interior slide):
+Built with this skill: the cover and an interior slide from the ten-slide carousel for "The Intimacy Economy," a Music Business Worldwide piece on Charli xcx and music's biggest stars going small on purpose.
 
-![Carousel cover built with the Carousel Builder skill](examples/images/carousel-cover.jpg)
+![Carousel cover built with the Carousel Builder skill](examples/images/carousel-charli-cover.jpg)
 
-![Interior carousel slide built with the Carousel Builder skill](examples/images/carousel-slide.jpg)
+![Interior carousel slide built with the Carousel Builder skill](examples/images/carousel-charli-slide.jpg)
 
 ### Interview Production
 
