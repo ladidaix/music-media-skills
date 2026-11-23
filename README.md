@@ -62,11 +62,15 @@ Ask: "Turn this album review into a five-slide Instagram carousel."
 
 You get a cover with a face-safe crop and a serif italic accent word in the headline, interior slides on one margin grid with type aligned by measured ink, your review copy set word for word (any text that does not fit is flagged back to you, never trimmed), a footer handle placed to clear the platform's action buttons, lossless images, a self-audit that fails the build if a baseline jumps or a bottom margin drifts, and a caption checklist instead of a drafted caption.
 
+Sample output: [examples/carousel-builder-sample.md](examples/carousel-builder-sample.md)
+
 ### Interview Production
 
 Ask: "Produce the package for the interview I taped yesterday."
 
 You get transcripts in docx and markdown, SRT captions cut at sentence boundaries, a 15-second cold open stitched from three timestamped moments, three social clips with searchable titles and tags, and a note that says exactly what is ready for your editor and what is waiting on you. No rendered clips. Selects only, so the editor stays the editor.
+
+Sample output: [examples/interview-production-sample.md](examples/interview-production-sample.md)
 
 ### Content Conversion
 
@@ -74,11 +78,15 @@ Ask: "Turn this essay into a video package for TikTok and YouTube."
 
 You get a selection list of the essay's own lines, quoted exactly and tagged by paragraph for your approval, a running order that is the script because the piece is the script, a shot and asset list using only material you have the rights to, captions built from the same words, a cover that uses the piece's own headline, and per-platform cuts where only the format and length change, never the wording. Anything missing, an asset, a bridge line, is flagged for you, never invented.
 
+Sample output: [examples/content-conversion-sample.md](examples/content-conversion-sample.md)
+
 ### Outreach Intel
 
 Ask: "Triage my drafts and build me a sponsor list for next month's push."
 
 You get every draft sorted into still live, dead, needs nudge, needs review, or keep as note (private notes are flagged, never read aloud), plus one ranked contact list where every name, title, and email was verified against a real thread or sheet, warm relationships first, stale entries flagged instead of silently included. Intelligence only: no pitch is drafted, and nothing is ever sent for you.
+
+Sample output: [examples/outreach-intel-sample.md](examples/outreach-intel-sample.md)
 
 ## The principles baked into all four
 
