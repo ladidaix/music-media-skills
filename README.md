@@ -72,7 +72,7 @@ The pictured carousel is the founder’s own published piece, built in her own g
 
 ![Interior carousel slide built with the Carousel Builder skill](examples/images/carousel-charli-slide.jpg)
 
-Images in examples/images are not covered by the MIT license. Photos belong to their respective owners.
+*Images in examples/images are not covered by the MIT license. Photos belong to their respective owners.*
 
 ### Interview Production
 
