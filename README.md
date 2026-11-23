@@ -64,6 +64,12 @@ You get a cover with a face-safe crop and a serif italic accent word in the head
 
 Sample output: [examples/carousel-builder-sample.md](examples/carousel-builder-sample.md)
 
+Built with this skill, the glossy editorial template (cover and interior slide):
+
+![Carousel cover built with the Carousel Builder skill](examples/images/carousel-cover.jpg)
+
+![Interior carousel slide built with the Carousel Builder skill](examples/images/carousel-slide.jpg)
+
 ### Interview Production
 
 Ask: "Produce the package for the interview I taped yesterday."
