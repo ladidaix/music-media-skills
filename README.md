@@ -38,6 +38,7 @@ Created once, converted many times. The substance is created once, by the human.
 
 ```bash
 git clone https://github.com/ladidaix/music-media-skills.git
+mkdir -p ~/.claude/skills
 cp -R music-media-skills/skills/* ~/.claude/skills/
 ```
 
@@ -45,6 +46,7 @@ cp -R music-media-skills/skills/* ~/.claude/skills/
 
 ```bash
 git clone https://github.com/ladidaix/music-media-skills.git
+mkdir -p ~/.claude/skills
 cp -R music-media-skills/skills/carousel-builder ~/.claude/skills/
 ```
 
